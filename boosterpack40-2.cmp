@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by PcbNew date = Mon 24 Dec 2012 03:22:37 AM MST
+
+BeginCmp
+TimeStamp = /50D61E93;
+Reference = C2;
+ValeurCmp = CP1;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61E13;
+Reference = C3;
+ValeurCmp = CP1;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5080DB5C;
+Reference = J2;
+ValeurCmp = TI_BOOSTER_40_J1;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5080DBF4;
+Reference = J3;
+ValeurCmp = TI_BOOSTER_40_J2;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5080DC03;
+Reference = J4;
+ValeurCmp = TI_BOOSTER_40_J3;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5080DC12;
+Reference = J5;
+ValeurCmp = TI_BOOSTER_40_J4;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D812F6;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61E89;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61D93;
+Reference = P3;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D649C2;
+Reference = P4;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D81548;
+Reference = P5;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D81573;
+Reference = P6;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D8109E;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D81527;
+Reference = Q2;
+ValeurCmp = MOSFET_N;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D81552;
+Reference = Q3;
+ValeurCmp = MOSFET_N;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D810B3;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D8153B;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D81566;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61E5A;
+Reference = U2;
+ValeurCmp = POLOLU_A4988;
+IdModule  = SWDIP8_.6W;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D58039;
+Reference = U3;
+ValeurCmp = POLOLU_A4988;
+IdModule  = SWDIP8_.6W;
+EndCmp
+
+EndListe

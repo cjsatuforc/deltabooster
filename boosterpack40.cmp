@@ -1,0 +1,199 @@
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-testing date = Sun 23 Dec 2012 07:36:29 PM MST
+
+BeginCmp
+TimeStamp = /50D61ED6;
+Reference = C1;
+ValeurCmp = CP1;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61E93;
+Reference = C2;
+ValeurCmp = CP1;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61E13;
+Reference = C3;
+ValeurCmp = CP1;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D7766D;
+Reference = C4;
+ValeurCmp = CP1;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D77C9E;
+Reference = C5;
+ValeurCmp = CP1;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D77CC4;
+Reference = C6;
+ValeurCmp = CP1;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5080A33C;
+Reference = J1;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5080DB5C;
+Reference = J2;
+ValeurCmp = TI_BOOSTER_40_J1;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5080DBF4;
+Reference = J3;
+ValeurCmp = TI_BOOSTER_40_J2;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5080DC03;
+Reference = J4;
+ValeurCmp = TI_BOOSTER_40_J3;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5080DC12;
+Reference = J5;
+ValeurCmp = TI_BOOSTER_40_J4;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D63DA8;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D63D91;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D63C13;
+Reference = K3;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61ECC;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61E89;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61D93;
+Reference = P3;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D649C2;
+Reference = P4;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D774E3;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D77C8C;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D77CB2;
+Reference = P7;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D6B8FB;
+Reference = P8;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D77517;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D77C98;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D77CBE;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61E9D;
+Reference = U1;
+ValeurCmp = POLOLU_A4988;
+IdModule  = SWDIP8_.6W;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D61E5A;
+Reference = U2;
+ValeurCmp = POLOLU_A4988;
+IdModule  = SWDIP8_.6W;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D58039;
+Reference = U3;
+ValeurCmp = POLOLU_A4988;
+IdModule  = SWDIP8_.6W;
+EndCmp
+
+EndListe
